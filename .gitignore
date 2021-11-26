@@ -1,3 +1,5 @@
 Build/
 Images/Sources
 Scripts/*.pex
+.bsa
+.zip
